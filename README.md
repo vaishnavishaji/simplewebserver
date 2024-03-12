@@ -1,4 +1,4 @@
-![out1](https://github.com/vaishnavishaji/simplewebserver/assets/151444759/4ebee060-073c-4b63-9138-f2c7edaf5ac7)# EX01 Developing a Simple Webserver
+EX01 Developing a Simple Webserver
 ## Date:12/03/2024
 
 ## AIM:
